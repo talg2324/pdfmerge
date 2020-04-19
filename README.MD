@@ -1,6 +1,6 @@
 @talg
 
-PDFMerge Windows Console App
+# PDFMerge Windows Console App
 
 
 Setup:
